@@ -113,10 +113,6 @@ works perfectly fine with Browserify, but there is the option to use a
 build specific to browsers rather than something meant for a server.
 Head over to the [download page][5] for all the options.
 
-**Don't link to GitHub directly.** The library is not supposed to work straight
-from the source, it requires building. If none of the pre-packaged options
-work for you refer to the [building documentation][6].
-
 **The CDN-hosted package doesn't have all the languages.** Otherwise it'd be
 too big. If you don't see the language you need in the ["Common" section][5],
 it can be added manually:
